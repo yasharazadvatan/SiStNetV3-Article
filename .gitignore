@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+checkpoints
+runs
+
+ablation_study/checkpoints
+ablation_study/runs
